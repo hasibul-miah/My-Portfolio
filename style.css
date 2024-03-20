@@ -439,7 +439,7 @@ transition: 0.6ss;
 }
 .work-list{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(350px, 2fr));
   grid-gap: 40px;
   margin-top: 50px;
 }
@@ -617,9 +617,11 @@ nav .bx{
   .header-text{
     margin-top: 100%;
     font-size: 16px;
+   
   }
   .header-text h1{
     font-size:30px ;
+    color: green;
 
   }
   nav .bx{
@@ -683,6 +685,10 @@ nav .bx{
   text-align: center;
   justify-content: center;
   display: flex;
+}
+.work img{
+  margin: 0 auto;
+  width: 100%;
 }
 
 
@@ -902,7 +908,7 @@ background-size:100%;
 }
 .webfriend{
   font-weight: bolder;
-  font-we
+  
 
 }
 /* Fotter */
