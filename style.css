@@ -923,3 +923,17 @@ background-size:100%;
 /* CSS For Small Screen */
 
 
+/* Card */
+.mydiv img{
+  width: 100%;
+  background-position: center;
+background: rgb(226, 216, 216);
+height: 270px;
+
+}
+.mydiv{
+
+}
+/* Card */
+
+
